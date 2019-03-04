@@ -13,3 +13,5 @@ in
 `cv2.HoughCircles(image, method, dp, minDist[, circles[, param1[, param2[, minRadius[, maxRadius]]]]])`
 
 Depending of type of imge one's working on the values may vary significantly.
+
+Values of N,S,E,W inputs must be in decimal degrees.
