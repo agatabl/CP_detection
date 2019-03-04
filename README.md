@@ -1,5 +1,5 @@
 # CP_detection
-Detection of geographic coordinates of CPs based on georeferenced image.
+Detection of geographic coordinates of CPs based on georeferenced image. Final result is csv file with point number and coordinates and image with orresponding data located respectively.
 
 The key arguments are in HoughCircles() function. Although the input forces determinig min and max radius of 
 circle and distnace between circles, it is also crucial to consider changing:
